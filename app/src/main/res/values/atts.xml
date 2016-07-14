@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Watch">
+        <attr name="watch_width" format="float"></attr>
+        <attr name="watch_height" format="float"></attr>
+    </declare-styleable>
+</resources>
